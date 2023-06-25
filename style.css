@@ -1,0 +1,16 @@
+body {
+    background-color: bisque;
+    text-align: center;
+}
+
+a {
+    padding: 10px;
+    color: brown;
+}
+
+img {
+    margin-top: 20px;
+    width: 400px;
+    height: 500px;
+    padding: 0 45px;
+}
